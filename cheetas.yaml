@@ -2,7 +2,11 @@ team: Cheetas
 
 manager: Laura
 
+<<<<<<< HEAD
 coach: Nicolas
+=======
+coach: Melissa
+>>>>>>> a4926c9 (Edit cheetas)
 
 members:
 - Ryan
